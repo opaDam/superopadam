@@ -1,3 +1,3 @@
 # superopadam
-super
+super /n
 https://pixabay.com/
