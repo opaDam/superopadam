@@ -24,10 +24,10 @@ body {
   text-align: center;
   /* margin-right: 400px; */
 }
-h1{
+h1 {
   color: cornsilk;
 }
-.container{
+.container {
   width: 100vw;
 }
 
@@ -119,26 +119,25 @@ img.foto {
 }
 
 .map2 {
-    position: relative;
-    top: 20px;
-    left: 0px;
-  }
-  ul{
-      list-style: none;
-  }
-  li{
-    margin-left: 30px;
-  }
-  a{
+  position: relative;
+  top: 20px;
+  left: 0px;
+}
+ul {
+  list-style: none;
+}
+li {
+  margin-left: 30px;
+}
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: cornsilk;
+}
 
-      text-decoration: none;
-      font-size: 18px;
-      color: cornsilk;
-  }
-
-  footer{
-    position: fixed;
-    bottom: 0;
-    text-align: center;
-    justify-content: center;
-  }
+footer {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  justify-content: center;
+}
