@@ -5,12 +5,13 @@
 }
 body{
     position: relative;
-    background-image: url(./images/thunderstorm-g1c1270d2e_1920.jpg);
+    background-image: url(./images/ufo-1265186.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100vw;
     height: 100vh;
+    color: #fff;
 }
 .logo{
     position: relative;
