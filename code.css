@@ -110,7 +110,8 @@ a {
 
 footer {
   position: fixed;
-  bottom: 0;
+  bottom: 10px;
+  left: 10px;
   text-align: center;
   justify-content: center;
 }
