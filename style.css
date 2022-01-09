@@ -135,9 +135,10 @@ a {
   color: cornsilk;
 }
 
-footer {
-  display: flex;
+.footer {
+  display: block;
   position: fixed;
   bottom: 10px;
-  left: 10px;
+  left: 100px;
+  color: cornsilk;
 }
